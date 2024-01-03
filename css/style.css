@@ -1,0 +1,1011 @@
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+}
+body{}
+.all{
+    width: 100%;
+    max-width: 1440px;
+}
+.header{
+    width: 100%;
+    display: inline-flex;
+}
+.logo{
+    width: 25%;
+    margin-top: -39px;
+}
+.logo img{
+    width: 250px;
+}
+.menubar{
+    width: 50%;
+    text-align: center;
+    margin-top: 17px;
+}
+.menubar nav{}
+.menubar nav ul{}
+.menubar nav ul li{
+    display: inline;
+}
+.menubar nav ul li a{
+    text-decoration: none;
+    padding: 10px;
+    text-transform: capitalize;
+    font-size: 23px;
+    margin-right: 8px;
+    color: black;
+    font-family: 'Lily Script One';
+}
+.menubar nav ul li a:hover{
+    color: #CD89FF;
+    transition: 0.5s;
+}
+.search{
+    width: 25%;
+    margin-top: 28px;
+}
+.search input{
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    padding-right: 45px;
+    width: 115px;
+    margin-left: 80px;
+    outline: none;
+    text-transform: capitalize;
+    background: #36bebeb8;
+    color: white;
+}
+.search i{
+    margin-left: -29px;
+    cursor: pointer;
+}
+.search i:hover{
+    color: #cd89ff;
+}
+.banner{
+    width: 100%;
+    background: url(../images/Grand_kimono_blue_hero_8011cb6d-76b1-4d25-9035-8b95b941b6a6_1400x.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: -152px;
+    height: 650px;
+    padding-top: 154px;
+}
+.content{
+    width: 50%;
+}
+.content h1{
+    font-family: 'Kavoon', serif;
+    text-transform: capitalize;
+    font-size: 4vw;
+    text-indent: 60px;
+    color: #36bebe;
+}
+.content h2{
+    text-indent: 187px;
+    font-size: 3vw;
+    text-transform: capitalize;
+    font-family: Lily Script One;
+    font-weight: 200;
+    color: #36bebe;
+}
+.content h3{
+    font-family: 'Kavoon', serif;
+    text-transform: capitalize;
+    font-size: 4vw;
+    text-indent: 60px;
+    color: #36bebe;
+}
+.content p{
+    margin-left: 60px;
+    width: 73%;
+    margin-top: 10px;
+    text-align: justify;
+}
+.content button{
+    margin-left: 60px;
+    padding: 9px;
+    width: 130px;
+    border: none;
+    border-radius: 5px;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-top: 15px;
+    background: #ff00ef;
+    color: white;
+}
+.content button:hover{}
+.minisearch{
+    width: 500px;
+    background: white;
+    margin-left: 60px;
+    margin-top: 80px;
+    text-align: center;
+    text-transform: capitalize;
+    padding-top: 15px;
+}
+.minisearch h1{
+    margin-bottom: 10px;
+}
+.minisearch select{
+    width: 40%;
+    padding: 8px;
+    text-transform: capitalize;
+    font-weight: 700;
+    outline: none;
+    border: none;
+    background: #8900ff;
+    color: white;
+    border-radius: 5px;
+}
+.minisearch select option{
+    font-weight: 700;
+}
+.minisearch button{
+    padding: 9px;
+    width: 130px;
+    border: none;
+    border-radius: 5px;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-top: 15px;
+    background: #ff00ef;
+    color: white;
+    margin-bottom: 10px;
+}
+.minisearch button:hover{}
+.one{
+    width: 100%;
+    display: inline-flex;
+    margin-top: 90px;
+}
+.onecontent{
+    width: 50%;
+}
+.onecontent h1{
+    font-size: 4vw;
+    text-transform: capitalize;
+    margin-left: 100px;
+    padding-top: 60px;
+    font-family: salsa;
+}
+.onecontent h2{
+    font-size: 4vw;
+    text-transform: capitalize;
+    margin-left: 100px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-family: salsa;
+}
+.onecontent p{
+    margin-left: 100px;
+    width: 61%;
+    text-align: justify;
+    margin-bottom: 15px;
+    font-family: math;
+}
+.onecontent button{
+    margin-left: 100px;
+    padding: 9px;
+    width: 130px;
+    border: none;
+    border-radius: 5px;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-top: 15px;
+    background: #af072a;
+    color: white;
+}
+.onecontent button:hover{}
+.oneimage{
+    width: 50%;
+    margin-left: -73px;
+}
+.oneimage img{
+    width: 100%;
+    border-radius: 15px;
+    box-shadow: 2px 2px 4px #36bebe;width: 100%;
+
+}
+.two{
+    margin-top: 90px;
+    width: 100%;
+}
+.twoheader{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0;
+}
+.twoheader h1{
+    text-transform: capitalize;
+    font-size: 3vw;
+    font-family: salsa;
+    color: red;
+}
+.allflower{
+    width: 100%;
+    display: inline-flex;
+}
+.soro{
+    margin-left: 154px;
+}
+.flower{
+    width: 300px;
+    text-align: center;
+    margin-right: 20px;
+    border-top-left-radius: 111px;
+    border-top-right-radius: 111px;
+}
+.flower img{
+    width: 100%;
+    height: 300px;
+    border-top-left-radius: 111px;
+    border-top-right-radius: 111px;
+}
+.flower h1{
+    text-transform: capitalize;
+    font-size: 2vw;
+    font-family: 'Salsa';
+}
+.flower p{}
+.flower button{
+    padding: 9px;
+    width: 130px;
+    border: none;
+    border-radius: 5px;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-top: 15px;
+    background: #9300ff;
+    color: white;
+}
+.flower button:hover{}
+.three{
+    width: 100%;
+    margin-top: 90px;
+
+}
+.threeheader{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.threeheader h1{
+    text-transform: capitalize;
+    font-size: 3vw;
+    text-transform: capitalize;
+    color: #bb00ff;
+}
+.allcards{
+    width: 100%;
+    display: inline-flex;
+}
+.card{
+    width: 280px;
+    margin-right: 10px;
+    background: #ff00ff;
+    border-top-left-radius: 22px;
+    border-top-right-radius: 22px;
+    box-shadow: 1px 1px 5px black;
+}
+.soroo{
+    margin-left: 49px;
+}
+.card img{
+    width: 100%;
+    border-radius: 22px;
+}
+.card h1{
+    color: #FFF;
+    text-transform: capitalize;
+    font-size: 2vw;
+    text-indent: 10px;
+    margin-bottom: 8px;
+}
+.four{
+    width: 100%;
+    margin-top: 80px;
+    text-align: center;
+}
+.four button{
+    padding: 9px;
+    width: 160px;
+    border: none;
+    border-radius: 5px;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-top: 15px;
+    background: #0000ffd6;
+    color: white;
+    margin-bottom: 10px;
+}
+.allshop{
+    width: 100%;
+    display: inline-flex;
+}
+.shop{
+    width: 280px;
+    text-transform: capitalize;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    box-shadow: 0px 0px 8px black;
+    border-radius: 10px;
+}
+.shop_one{
+    display: inline-flex;
+}
+.shop_two{
+    display: inline-flex;
+}
+.sorooo{
+    margin-left: 46px;
+}
+.shop_image{
+    width: 100%;
+    height: 250px;
+    border-radius: 10px;
+}
+.shop_image img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.shop h1{
+    text-align: center;
+    font-size: 2vw;
+    color: #ff00fd;
+}
+.shop p{
+    width: 97%;
+    margin-left: 5px;
+    text-align: justify;
+}
+.shop button{
+    margin-left: 0px;
+    padding: 9px;
+    width: 130px;
+    border: none;
+    border-radius: 5px;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-top: 15px;
+    background: #9300ff;
+    color: white;
+    margin-bottom: 10px;
+}
+.shop button:hover{}
+.five{
+    margin-top: 80px;
+    width: 100%;
+}
+.signup{
+    width: 100%;
+    display: inline-flex;
+    margin-bottom: 70px;
+}
+.signupcontent{
+    width: 50%;
+    text-transform: capitalize;
+}
+.signupcontent h1{
+    font-size: 4vw;
+    margin-left: 137px;
+    font-family: 'Lily Script One';
+}
+.off{
+    color: #ff0000;
+}
+.signupcontent h2{
+    font-size: 4vw;
+    margin-left: 137px;
+    font-family: 'Lily Script One';
+}
+.signupcontent p{
+    margin-left: 75px;
+    width: 68%;
+    text-align: justify;
+    margin-top: 25px;
+}
+.signupform{
+    width: 50%;
+}
+.form{
+    width: 400px;
+    background: transparent;
+    box-shadow: 1px 1px 4px black;
+    border-radius: 5px;
+}
+.form img{
+    width: 150px;
+    margin-left: 125px;
+    margin-top: -14px;
+    cursor: pointer;
+}
+.form input{
+    width: 85%;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-left: 21px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    box-shadow: 2px 2px 3px black;
+}
+.form button{
+    margin-left: 135px;
+    padding: 9px;
+    width: 130px;
+    border: none;
+    border-radius: 5px;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-top: 15px;
+    background: #ff00e7;
+    color: white;
+    margin-bottom: 25px;
+}
+.form button:hover{}
+
+.tag{
+    width: 100%;
+    display: inline-flex;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.tag p{
+    color: red;
+}
+.lineone{
+    background: #6200ff;
+    height: 3px;
+    width: 150px;
+}
+.linetwo{
+    background: #6200ff;
+    height: 3px;
+    width: 150px;
+}
+.aktu{
+    margin-left: 37%;
+}
+
+
+@media screen and (min-width : 320px) and (max-width :425px){
+    h1,h2,h3,h4,h5,h6,p{
+        margin: 0;
+        padding: 0;
+    }
+    body{}
+    .all{
+        width: 100%;
+        max-width: 1440px;
+    }
+    .header{
+        display: inline-block;
+    }
+    .logo{
+        margin-left: 40px;
+        margin-top: 0;
+    }
+    .logo img{
+        width: 280px;
+    }
+    .menubar{
+        display: none;
+    }
+    .menubar nav{}
+    .menubar nav ul{}
+    .menubar nav ul li{
+        
+    }
+    .menubar nav ul li a{
+        
+    }
+    .menubar nav ul li a:hover{
+        
+    }
+    .search{
+       display: none;
+    }
+    .search input{
+        
+    }
+    .search i{
+        
+    }
+    .search i:hover{
+        
+    }
+    .banner{
+        background: url(../images/Grand_kimono_blue_hero_8011cb6d-76b1-4d25-9035-8b95b941b6a6_1400x.webp);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        margin-top: -200px;
+        height: 550px;
+    }
+    .content{
+        width: 100%;
+    }
+    .content h1{
+        font-size: 8vw;
+        text-indent: 50px;
+    }
+    .content h2{
+        text-indent: 120px;
+        font-size: 6vw;
+    }
+    .content h3{
+        font-size: 8vw;
+        text-indent: 50px;
+    }
+    .content p{
+        width: 95%;
+        margin-left: 7px;
+    }
+    .content button{
+        margin-left: 100px;
+    }
+    .content button:hover{}
+    .minisearch{
+        margin-left: 0;
+        width: 100%;
+    }
+    .minisearch h1{
+        
+    }
+    .minisearch select{
+        
+    }
+    .minisearch select option{
+        
+    }
+    .minisearch button{
+        
+    }
+    .minisearch button:hover{}
+    .one{
+        display: inline-block;
+        margin-top: 20px;
+    }
+    .onecontent{
+        width: 100%;
+        margin-left: 0px;
+        text-align: center;
+    }
+    .onecontent h1{
+        margin-left: 0px;
+        font-size: 8vw;
+    }
+    .onecontent h2{
+        margin-left: 0px;
+        font-size: 8vw;
+    }
+    .onecontent p{
+        margin-left: 0px;
+        width: 100%;
+    }
+    .onecontent button{
+        margin-left: 0px;
+    }
+    .onecontent button:hover{}
+    .oneimage{
+        width: 100%;
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .oneimage img{
+        width: 100%;
+        box-shadow: none;
+    
+    }
+    .two{
+        
+    }
+    .twoheader{
+        
+    }
+    .twoheader h1{
+        font-size: 8vw;
+    }
+    .allflower{
+        display: inline-block;
+    }
+    .soro{
+        margin-left: 0;
+    }
+    .flower{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .flower img{
+        
+    }
+    .flower h1{
+       font-size: 8vw;
+    }
+    .flower p{}
+    .flower button{
+        
+    }
+    .flower button:hover{}
+    .three{
+        margin-top: 30px;
+    
+    }
+    .threeheader{
+        
+    }
+    .threeheader h1{
+        font-size: 8vw;
+    }
+    .allcards{
+        display: inline-block;
+    }
+    .card{
+        width: 100%;
+    }
+    .soroo{
+        margin-left: 0px;
+    }
+    .card img{
+        
+    }
+    .card h1{
+        
+    }
+    .four{
+        
+    }
+    .four button{
+        
+    }
+    .allshop{
+        display: inline-block;
+    }
+    .shop{
+        width: 100%;
+    }
+    .shop_one{
+        display: inline-block;
+    }
+    .shop_two{
+        display: inline-block;
+    }
+    .sorooo{
+        margin-left: 0;
+    }
+    .shop_image{
+        width: 100%;
+    }
+    .shop_image img{
+       width: 100%;
+    }
+    .shop h1{
+        
+    }
+    .shop p{
+        
+    }
+    .shop button{
+        
+    }
+    .shop button:hover{}
+    .five{
+        
+    }
+    .signup{
+        display: inline-block;
+    }
+    .signupcontent{
+        width: 100%;
+        text-align: center;
+    }
+    .signupcontent h1{
+        font-size: 8vw;
+        margin-left: 0px;
+    }
+    .off{
+        
+    }
+    .signupcontent h2{
+        font-size: 8vw;
+        margin-left: 0px;
+    }
+    .signupcontent p{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .signupform{
+        width: 100%;
+        margin-top: 20px;
+    }
+    .form{
+        width: 100%;
+    }
+    .form img{
+        margin-left: 78px;
+    }
+    .form input{
+        width: 90%;
+        margin-left: 4px;
+    }
+    .form button{
+        margin-left: 83px;
+    }
+    .form button:hover{}
+    
+    .tag{
+        
+    }
+    .tag p{
+        
+    }
+    .lineone{
+        
+    }
+    .linetwo{
+       
+    }
+    .aktu{
+        margin-left: 0px;
+    }
+}
+
+
+@media screen and (min-width : 426px) and (max-width :768px){
+    h1,h2,h3,h4,h5,h6,p{
+        margin: 0;
+        padding: 0;
+    }
+    body{}
+    .all{
+        width: 100%;
+        max-width: 1440px;
+    }
+    .header{
+        
+    }
+    .logo{
+        
+    }
+    .logo img{
+        
+    }
+    .menubar{
+        width: 75%;
+    }
+    .menubar nav{}
+    .menubar nav ul{}
+    .menubar nav ul li{
+        
+    }
+    .menubar nav ul li a{
+        
+    }
+    .menubar nav ul li a:hover{
+        
+    }
+    .search{
+       display: none;
+    }
+    .search input{
+        
+    }
+    .search i{
+        
+    }
+    .search i:hover{
+        
+    }
+    .banner{
+        
+    }
+    .content{
+        margin-left: 170px;
+    }
+    .content h1{
+        
+    }
+    .content h2{
+        
+    }
+    .content h3{
+        
+    }
+    .content p{
+        width: 100%;
+        margin-left: 11px;
+    }
+    .content button{
+        margin-left: 140px;
+    }
+    .content button:hover{}
+    .minisearch{
+        margin-left: 125px;
+    }
+    .minisearch h1{
+        
+    }
+    .minisearch select{
+        
+    }
+    .minisearch select option{
+        
+    }
+    .minisearch button{
+        
+    }
+    .minisearch button:hover{}
+    .one{
+        display: inline-block;
+        margin-top: 30px;
+    }
+    .onecontent{
+        width: 100%;
+        text-align: center;
+    }
+    .onecontent h1{
+        margin-left: 0px;
+    }
+    .onecontent h2{
+        margin-left: 0px;
+    }
+    .onecontent p{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .onecontent button{
+        margin-left: 0px;
+    }
+    .onecontent button:hover{}
+    .oneimage{
+        display: none;
+    }
+    .oneimage img{
+        
+    
+    }
+    .two{
+        
+    }
+    .twoheader{
+        
+    }
+    .twoheader h1{
+        
+    }
+    .allflower{
+        
+    }
+    .soro{
+        margin-left: 0;
+    }
+    .flower{
+        
+    }
+    .flower img{
+        
+    }
+    .flower h1{
+       
+    }
+    .flower p{}
+    .flower button{
+        
+    }
+    .flower button:hover{}
+    .three{
+        
+    
+    }
+    .threeheader{
+        
+    }
+    .threeheader h1{
+        
+    }
+    .allcards{
+        
+    }
+    .card{
+        
+    }
+    .soroo{
+        margin-left: 8px;
+    }
+    .card img{
+        
+    }
+    .card h1{
+        
+    }
+    .four{
+        
+    }
+    .four button{
+        
+    }
+    .allshop{
+        
+    }
+    .shop{
+        width: 370px;
+    }
+    .sorooo{
+        margin-left: 0px;
+    }
+    .shop_image{
+        
+    }
+    .shop_image img{
+       
+    }
+    .shop h1{
+        
+    }
+    .shop p{
+        
+    }
+    .shop button{
+        
+    }
+    .shop button:hover{}
+    .five{
+        
+    }
+    .signup{
+        display: inline-block;
+    }
+    .signupcontent{
+        display: none;
+    }
+    .signupcontent h1{
+        
+    }
+    .off{
+        
+    }
+    .signupcontent h2{
+        
+    }
+    .signupcontent p{
+        
+    }
+    .signupform{
+        width: 100%;
+    }
+    .form{
+        width: 100%;
+    }
+    .form img{
+        margin-left: 312px;
+    }
+    .form input{
+        margin-left: 46px;
+    }
+    .form button{
+        margin-left: 307px;
+    }
+    .form button:hover{}
+    
+    .tag{
+        
+    }
+    .tag p{
+        
+    }
+    .lineone{
+        
+    }
+    .linetwo{
+       
+    }
+    .aktu{
+        margin-left: 220px;
+    }
+}
+
+
