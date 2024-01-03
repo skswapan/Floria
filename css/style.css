@@ -621,7 +621,7 @@ body{}
         margin-bottom: 20px;
     }
     .flower img{
-        
+            height: auto;
     }
     .flower h1{
        font-size: 8vw;
